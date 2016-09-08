@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Coffee Tip</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.xamarin.coffee-tip</string>
+	<string>com.derrickcawthon.coffeetipper</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -40,8 +40,6 @@
 	</array>
 	<key>XSAppIconAssets</key>
 	<string>Resources/Images.xcassets/AppIcons.appiconset</string>
-	<key>UIStatusBarStyle</key>
-	<string>UIStatusBarStyleLightContent</string>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 </dict>
